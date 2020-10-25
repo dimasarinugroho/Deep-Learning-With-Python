@@ -1,1 +1,1 @@
-Materi Deep Learning mulai basic sampai advanced menggunakan bahasa pemrograman python
+Deep Learning with python using Keras, Tensorflow and Library Data Science of Python
